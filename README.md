@@ -8,7 +8,7 @@ We have learned all the important concepts in JavaScript. Now lets work with our
 ```
 Fork this repo
 Clone this repo
-Practice HTML,CSS Features
+Practice HTML,CSS & JS Features
 ```
 
 ## How To Submit
@@ -26,7 +26,5 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 In this task you are going to build and integrate music player in your smartwatch.
 
 ![Image description](https://i1.faceprep.in/ProGrad/sm-4.PNG)
-
-
 
 Happy Coding ProGrads❤️
